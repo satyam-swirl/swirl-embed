@@ -1,0 +1,3 @@
+PS C:\Users\LENOVO\Desktop\v12L> git config user.name 'satyam-swirl'
+PS C:\Users\LENOVO\Desktop\v12L> git config credential.username "satyam-swirl"
+PS C:\Users\LENOVO\Desktop\v12L> git config credential.password "Github@1211"
